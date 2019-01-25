@@ -1,6 +1,6 @@
 ## DroneScanner
 
-This project is to create a drone that can navigate and map a building. It is using OpenCV in C++. The idea is to use the camera as the main input device but others like ultrasonic might be used.
+This project is to create a drone that can navigate and map a building. It is using OpenCV in C++/Java/Python(Python chosen as main language). The idea is to use the camera as the main input device but others like ultrasonic might be used.
 
 ## Getting Started
 
